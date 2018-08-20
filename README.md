@@ -1,1 +1,1 @@
-Playing songs with sinatra
+Playing sinatra music
